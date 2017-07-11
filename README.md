@@ -25,7 +25,6 @@ So, I wrote a script for it.
 (3) iFile or Filza(to locate VLC folder, it is not necessary)
 
 (4) You should be more than a novice regarding bash scripting(especially find command)
-
     Since this script is not completely click-and-go
 
 
@@ -33,8 +32,7 @@ So, I wrote a script for it.
 (1) Since VLC app does not support nested folders, we will be restricted by that too.
 
 (2) I don't know about the situation on Android VLC app. 
-
-    But I guess the mechanism using sqlite database would be same.
+    But I guess the mechanism using sqlite database would be the same.
 
 
 ## Usage
